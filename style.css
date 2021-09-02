@@ -46,8 +46,8 @@ h1{
 
 }
 .lorem{
-    height: 168px;
-    width: 513px;
+    height: 100vh;
+    width: 50%;
     left: 550px;
     top: 487px;
     border-radius: nullpx;
